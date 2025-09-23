@@ -24,7 +24,11 @@ if (isset($_GET['hapus'])) {
 
 // Mengambil semua data dari database
 $dataFungsi = $db->tampil();
+
 ?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
