@@ -12,7 +12,7 @@ for($d = 1; $d <= 2 ; $d++){
 
 echo "<br>";
 echo "hasil perulangan while";
-
+echo "<br>";
 
 while ($a < 6){
     echo $a;
